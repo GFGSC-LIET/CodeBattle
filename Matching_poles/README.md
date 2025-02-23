@@ -21,11 +21,16 @@ You are given an array of rods with different lengths. Your task is to use these
 
 ## Example
 
-### Sample Input
+## Sample Input
 4 
 
 1 2 3 6
 
-### Sample Output
+## Sample Output
 
 6
+
+## Explanation 
+
+- We have two disjoint subsets {1,2,3} and {6}, which have the same sum = 6.
+
