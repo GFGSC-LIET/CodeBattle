@@ -4,7 +4,7 @@ using namespace std;
 
 int maxHeight = 0;
 
-void findMaxHeight(vector<int>& rods, int index, int sum1, int sum2) {
+void findMaxHeight(vector<int>& rods, size_t index, int sum1, int sum2) {
     if (index == rods.size()) {
         if (sum1 == sum2) {
             maxHeight = max(maxHeight, sum1);
