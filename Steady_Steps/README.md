@@ -31,10 +31,19 @@ You need to calculate how far from his starting point Faizal will be after **k s
 ## Output Format
 For each test case, output a single line containing one integer - Faizal's position after k seconds.
 
-### Sample Input
+## Sample Input
 1
 
 5
 
-### Sample Output
+## Sample Output
 7
+
+## Explanation 
+
+- 1st second: walks 3 steps forward, ending at 3
+- 2nd second: walks 1 step backward, ending at 2
+- 3rd second: walks 3 steps forward, ending at 5
+- 4th second: walks 1 step backward, ending at 4
+- 5th second: walks 3 steps forward, ending at 7
+
