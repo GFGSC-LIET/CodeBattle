@@ -19,8 +19,8 @@ There are N items in a grocery store. Each item has a freshness value **Ai** and
 ## Constraints
 
 - 1 <= T <= 100
--1 <= N, X <= 100
--1 <= Ai,Bi <= 100
+- 1 <= N, X <= 100
+- 1 <= Ai,Bi <= 100
 
 ## Sample Input
 
