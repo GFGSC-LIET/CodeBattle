@@ -33,7 +33,7 @@ There are N items in a grocery store. Each item has a freshness value **Ai** and
 40 30 20 10
 
 
-## Sample Onput
+## Sample Output
 
 50
 
