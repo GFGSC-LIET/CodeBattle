@@ -21,14 +21,14 @@ Output Format
 
 For each test case, output a single line containing one integer - Faizal's position after k seconds.
 
-Sample Input 0
+Sample Input 
 
 1
 5
-Sample Output 0
+Sample Output 
 
 7
-Explanation 0
+Explanation 
 
 1st second: walks 3 steps forward, ending at 3
 2nd second: walks 1 step backward, ending at 2
