@@ -36,5 +36,5 @@ For each test case, output a single line containing one integer - Faizal's posit
 
 5
 
-### Sample output
+### Sample Output
 7
